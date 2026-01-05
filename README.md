@@ -65,3 +65,11 @@ You may create a script such as extract_attention.py to load the best model and 
 1. No retraining required — simply load the saved best.pt checkpoint.
 2. Cross-attention extraction (Protein → Compound) from Transformer decoder layers.
 3. Automatic saving of attention-weight matrices for downstream visualization.
+
+## Authors
+This code was originally created by Yuxue Pan. Pan is currently a master student at Zhejiang University of Science and Technology under joint supervision of Dr. Qu Chen and Prof. Juan Huang.
+
+This code serves as the Supporting Information for the manuscript entitled "MSCMF-DTB: A Multi-Scale Cross-Modal Fusion Framework for Drug–Target Binding Prediction (submitted)" and can be downloaded for free.
+
+edited on January 5th, 2026
+
